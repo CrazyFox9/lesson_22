@@ -29,5 +29,6 @@ class funcTestCase(SkyproTestCase):
                 ", либо вы забыли их переименовать."
             )
 
+
 if __name__ == "__main__":
     unittest.main()
